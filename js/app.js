@@ -1,0 +1,3 @@
+function jottem()  {
+  return void;
+}
